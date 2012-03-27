@@ -1,8 +1,8 @@
-// Mobile Readability Tester
+// Mobile Readability Tester (jQuery plugin)
 // A plugin to test the readability of pages on mobile.
 // version 0.5, March 21st, 2012
-// by @robflaherty
-// with help from Daniel Garcia (@buzzedword)
+// by @buzzedword
+// fork of Mobile Readbility Tester from @robflaherty
 
 !function($) {
 
